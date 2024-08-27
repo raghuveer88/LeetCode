@@ -1,6 +1,8 @@
 class RecentCounter(object):
 
-    
+    # this is a little different approach each time the ping gets called
+    # it is not like a array is being called at a time 
+    # check the solution to understand it better
 
     def __init__(self):
         self.q = deque()
