@@ -9,6 +9,7 @@ All my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/raghuveer88/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/raghuveer88/LeetCode/tree/master/0135-candy) |
+| [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
+| [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,5 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
+| [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 <!---LeetCode Topics End-->
