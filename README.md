@@ -10,6 +10,7 @@ All my leetcode submissions
 | [0134-gas-station](https://github.com/raghuveer88/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/raghuveer88/LeetCode/tree/master/0135-candy) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
+| [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -40,9 +41,14 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
+| [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 <!---LeetCode Topics End-->
