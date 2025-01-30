@@ -5,6 +5,9 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        #This question is also pretty straight forward you just need travers the linked
+        # list then put it in the array then reverse it then add it then put the 
+        # new summend value in an array and reverse it and make it to a linked list
         l1_arr = []
         temp = l1
         while temp:  # Fixed: Include last node
