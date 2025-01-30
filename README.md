@@ -43,6 +43,7 @@ All my leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/raghuveer88/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -73,4 +74,12 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
