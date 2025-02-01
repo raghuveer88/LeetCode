@@ -6,6 +6,7 @@ All my leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/raghuveer88/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/raghuveer88/LeetCode/tree/master/0135-candy) |
@@ -93,6 +94,7 @@ All my leetcode submissions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
