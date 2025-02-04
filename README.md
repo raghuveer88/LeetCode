@@ -6,6 +6,7 @@ All my leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raghuveer88/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/raghuveer88/LeetCode/tree/master/0134-gas-station) |
@@ -40,6 +41,7 @@ All my leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raghuveer88/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/raghuveer88/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
