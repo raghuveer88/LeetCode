@@ -14,6 +14,7 @@ All my leetcode submissions
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -34,6 +35,7 @@ All my leetcode submissions
 | [0005-longest-palindromic-substring](https://github.com/raghuveer88/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1236-n-th-tribonacci-number](https://github.com/raghuveer88/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
