@@ -17,6 +17,7 @@ All my leetcode submissions
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
@@ -78,6 +79,7 @@ All my leetcode submissions
 | [0012-integer-to-roman](https://github.com/raghuveer88/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghuveer88/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 ## Bit Manipulation
 |  |
