@@ -96,6 +96,7 @@ All my leetcode submissions
 | ------- |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -130,6 +131,7 @@ All my leetcode submissions
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -152,4 +154,5 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
