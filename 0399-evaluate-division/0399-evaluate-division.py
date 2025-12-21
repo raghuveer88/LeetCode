@@ -1,41 +1,32 @@
-class Solution(object):
-    def calcEquation(self, equations, values, queries):
-        """
-        :type equations: List[List[str]]
-        :type values: List[float]
-        :type queries: List[List[str]]
-        :rtype: List[float]
-        """
-        # so here we can make the graph in such a way that a->b with a weight of 'x' and vice
-        # versa with b->a as '1/x'. so lets take an example if the we have a->b as '2' then
-        # b->c as '3' then a->c will be '2x3 =6' so this is how to find the values for queries
-        # array. is you don't find a value which is not in equations then return -1 
+class Solution:
+    def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+        graph = defaultdict(list)
 
-        adj = collections.defaultdict(list)
-        for i,eq in enumerate(equations):
-            a,b = eq
-            adj[a].append([b,values[i]])
-            adj[b].append([a,1/values[i]])
+        for (a,b), val in zip(equations,values):
+            graph[a].append((b,val))
+            graph[b].append((a,1/val))
 
-        def bsf(src,target):
-            if src not in adj or target not in adj:
-                return -1
-            q = deque()
-            visit = set()
-            q.append([src,1])
-            visit.add(src)
-            while q:
-                n,w = q.popleft()
-                if n == target:
-                    return w
-                for neighbour, weight in adj[n]:
-                    if neighbour not in visit:
-                        q.append([neighbour, w*weight])
-                        visit.add(neighbour)
+        def dsf(curr, target, visited):
+            if curr == target:
+                return 1
+
+            visited.add(curr)
+            for nei,w in graph[curr]:
+                if nei in visited:
+                    continue
+                res = dsf(nei,target,visited)
+                if res != -1:
+                    return w*res
+                
             return -1
 
-        result = []
-        for q in queries:
-           result.append(bsf(q[0],q[1])) 
-        
-        return result
+        ans = []
+        for src, target in queries:
+            if src not in graph or target not in graph:
+                ans.append(-1)
+            elif src == target:
+                ans.append(1)
+            else:
+                ans.append(dsf(src,target,set()))
+    
+        return ans
