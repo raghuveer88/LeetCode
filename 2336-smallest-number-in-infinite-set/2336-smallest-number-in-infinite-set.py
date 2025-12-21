@@ -1,32 +1,24 @@
-class SmallestInfiniteSet(object):
-
-# as the range is till 1000 create an array with 1-1000 values and each time
-# popsmallest is called pop the number if addback is called check if the num
-# is already there in the heap if not add it.
+class SmallestInfiniteSet:
 
     def __init__(self):
-        self.nums = [i for i in range(1,1001)]
-        self.set_nums = set(self.nums)
-        heapq.heapify(self.nums)
+        self.removed = set()
+        self.smallest = 1
 
-    def popSmallest(self):
-        """
-        :rtype: int
-        """
-        poped =  heapq.heappop(self.nums)
-        self.set_nums.remove(poped)
-        return poped
-
-    def addBack(self, num):
-        """
-        :type num: int
-        :rtype: None
-        """
-        if num not in self.set_nums:
-            heapq.heappush(self.nums,num)
-            self.set_nums.add(num)
-
+    def popSmallest(self) -> int:
+        ret = self.smallest
+        self.removed.add(ret)
+        self.smallest += 1
+        while self.smallest in self.removed:
+            self.smallest += 1
         
+        return ret
+
+    def addBack(self, num: int) -> None:
+        if num in self.removed:
+            self.removed.remove(num)
+            if num < self.smallest:
+                self.smallest = num
+            
 
 
 # Your SmallestInfiniteSet object will be instantiated and called as such:
