@@ -64,6 +64,7 @@ All my leetcode submissions
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghuveer88/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Math
 |  |
 | ------- |
@@ -184,8 +185,17 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
