@@ -20,6 +20,7 @@ All my leetcode submissions
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0944-delete-columns-to-make-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghuveer88/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
@@ -100,6 +101,7 @@ All my leetcode submissions
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghuveer88/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Memoization
 |  |
 | ------- |
@@ -109,6 +111,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghuveer88/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Linked List
 |  |
 | ------- |
