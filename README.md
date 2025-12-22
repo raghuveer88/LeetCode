@@ -23,6 +23,7 @@ All my leetcode submissions
 | [0994-rotting-oranges](https://github.com/raghuveer88/LeetCode/tree/master/0994-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghuveer88/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ All my leetcode submissions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghuveer88/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ All my leetcode submissions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,6 +184,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
