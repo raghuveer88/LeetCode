@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/total-cost-to-hire-k-workers/">2462. Total Cost to Hire K Workers</a></h2><h3>Medium</h3><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>costs</code> where <code>costs[i]</code> is the cost of hiring the <code>i<sup>th</sup></code> worker.</p>
+<h2><a href="https://leetcode.com/problems/total-cost-to-hire-k-workers">2553. Total Cost to Hire K Workers</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>costs</code> where <code>costs[i]</code> is the cost of hiring the <code>i<sup>th</sup></code> worker.</p>
 
 <p>You are also given two integers <code>k</code> and <code>candidates</code>. We want to hire exactly <code>k</code> workers according to the following rules:</p>
 
@@ -19,7 +19,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> costs = [17,12,10,2,7,2,11,20,8], k = 3, candidates = 4
+<pre>
+<strong>Input:</strong> costs = [17,12,10,2,7,2,11,20,8], k = 3, candidates = 4
 <strong>Output:</strong> 11
 <strong>Explanation:</strong> We hire 3 workers in total. The total cost is initially 0.
 - In the first hiring round we choose the worker from [<u>17,12,10,2</u>,7,<u>2,11,20,8</u>]. The lowest cost is 2, and we break the tie by the smallest index, which is 3. The total cost = 0 + 2 = 2.
@@ -30,7 +31,8 @@ The total hiring cost is 11.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> costs = [1,2,4,1], k = 3, candidates = 3
+<pre>
+<strong>Input:</strong> costs = [1,2,4,1], k = 3, candidates = 3
 <strong>Output:</strong> 4
 <strong>Explanation:</strong> We hire 3 workers in total. The total cost is initially 0.
 - In the first hiring round we choose the worker from [<u>1,2,4,1</u>]. The lowest cost is 1, and we break the tie by the smallest index, which is 0. The total cost = 0 + 1 = 1. Notice that workers with index 1 and 2 are common in the first and last 3 workers.
@@ -47,4 +49,3 @@ The total hiring cost is 4.
 	<li><code>1 &lt;= costs[i] &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= k, candidates &lt;= costs.length</code></li>
 </ul>
-</div>
