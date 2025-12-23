@@ -50,6 +50,7 @@ All my leetcode submissions
 | [0746-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0790-domino-and-tromino-tiling](https://github.com/raghuveer88/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/raghuveer88/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/raghuveer88/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
