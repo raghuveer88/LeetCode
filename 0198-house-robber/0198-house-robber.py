@@ -3,15 +3,19 @@ class Solution:
     # for this problem just First create an array to store how much can you rob until a 
     # certain point then for every new value in the nums array check if the last robbed value
     # is more or the sum of the current house 'i' and the robbed house of i-2 is great
-        if len(nums) == 1:
-            return nums[0]
+        memo = {}
+        n = len(nums)
 
-        dp = [nums[0], max(nums[0],nums[1])]
+        def rec(i):
+            if i >=n:
+                return 0
 
-        i = 2
-        while i < len(nums):
-            dp.append(max(dp[i-1],nums[i]+ dp[i-2]))
-            i = i + 1
-        return dp[-1]
+            if i in memo:
+                return memo[i]
+
+            else:
+                memo[i] = max(nums[i]+ rec(i+2), rec(i+1))
+                return memo[i]
 
 
+        return rec(0)
