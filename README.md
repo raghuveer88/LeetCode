@@ -105,6 +105,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/raghuveer88/LeetCode/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghuveer88/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Backtracking
 |  |
