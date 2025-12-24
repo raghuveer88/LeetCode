@@ -12,6 +12,7 @@ All my leetcode submissions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/raghuveer88/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/raghuveer88/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/raghuveer88/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/raghuveer88/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
@@ -103,6 +104,7 @@ All my leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raghuveer88/LeetCode/tree/master/0136-single-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Backtracking
 |  |
