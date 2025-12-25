@@ -69,11 +69,13 @@ All my leetcode submissions
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +229,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -240,4 +243,8 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
