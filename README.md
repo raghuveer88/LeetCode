@@ -21,6 +21,7 @@ All my leetcode submissions
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -67,10 +68,12 @@ All my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
