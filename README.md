@@ -29,6 +29,7 @@ All my leetcode submissions
 | [0944-delete-columns-to-make-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/raghuveer88/LeetCode/tree/master/0994-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
+| [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghuveer88/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -113,6 +114,7 @@ All my leetcode submissions
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0944-delete-columns-to-make-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
+| [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ All my leetcode submissions
 | [0162-find-peak-element](https://github.com/raghuveer88/LeetCode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0875-koko-eating-bananas](https://github.com/raghuveer88/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
@@ -215,11 +218,13 @@ All my leetcode submissions
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
@@ -243,6 +248,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Data Stream
 |  |
 | ------- |
