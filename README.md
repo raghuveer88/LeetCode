@@ -19,6 +19,7 @@ All my leetcode submissions
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/raghuveer88/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -54,6 +55,7 @@ All my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -104,6 +106,7 @@ All my leetcode submissions
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/raghuveer88/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
 | [1137-n-th-tribonacci-number](https://github.com/raghuveer88/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/raghuveer88/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
