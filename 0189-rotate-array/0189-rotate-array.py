@@ -5,8 +5,13 @@ class Solution:
         """
         size = len(nums)
         k=k%size
-        for i in range(k):
-            h = nums.pop()
-            nums.insert(0,h)
+        nums.reverse()
+        
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
+
+
+# 1,2,3,4,5,6,7
+# 7,6,5,4,3,2,1
 
 
