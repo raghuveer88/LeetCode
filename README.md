@@ -18,6 +18,7 @@ All my leetcode submissions
 | [0136-single-number](https://github.com/raghuveer88/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/raghuveer88/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -91,6 +92,7 @@ All my leetcode submissions
 | [0012-integer-to-roman](https://github.com/raghuveer88/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghuveer88/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -217,11 +219,13 @@ All my leetcode submissions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -260,4 +264,8 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
