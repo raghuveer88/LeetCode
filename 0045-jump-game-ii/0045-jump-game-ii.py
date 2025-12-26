@@ -1,17 +1,34 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        count = 0
-        farest_idx = 0
-        present_idx = 0
-        n = len(nums) - 1
-        for i in range(len(nums)-1):
-            farest_idx = max(farest_idx, i+nums[i])
+        size = len(nums)-1
+        if size <=0:
+            return 0
 
-            if i == present_idx:
-                count += 1
-                present_idx = farest_idx
-                if present_idx >= n:
-                    break
+        queue = deque()
+        queue.append(0)
+        jump = 0
+        visited = [False]*len(nums)
+        visited[0] = True
 
-            
-        return count
+        while queue:
+            for _ in range(len(queue)):
+                i = queue.popleft()
+                reach = i+nums[i]
+                
+
+                if reach >= size:
+                    return jump+1
+                
+                for j in range(i+1,reach+1):
+                    if j<=size and not visited[j]:
+                        queue.append(j)
+                        visited[j] = True
+            jump = jump + 1
+        
+
+
+
+        
+
+
+
