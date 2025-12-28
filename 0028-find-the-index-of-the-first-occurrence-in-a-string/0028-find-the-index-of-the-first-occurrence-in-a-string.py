@@ -16,10 +16,18 @@ class Solution:
         #         j = 0
         #     i = i+1        
         # return -1
-        res = -1
-        if needle in haystack:
-            res = haystack.find(needle)
-        return res
+        n = len(needle)
+        i = 0
+
+        
+        while i <= len(haystack)-n:
+            window = haystack[i:i+n]
+
+            if window == needle:
+                return i
+            i = i+1
+        
+        return -1
 
 
 
