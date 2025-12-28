@@ -70,6 +70,7 @@ All my leetcode submissions
 | [0125-valid-palindrome](https://github.com/raghuveer88/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raghuveer88/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/raghuveer88/LeetCode/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ All my leetcode submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghuveer88/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghuveer88/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/raghuveer88/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -147,6 +149,7 @@ All my leetcode submissions
 | [0125-valid-palindrome](https://github.com/raghuveer88/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raghuveer88/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/raghuveer88/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0944-delete-columns-to-make-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/raghuveer88/LeetCode/tree/master/1044-find-common-characters) |
