@@ -136,6 +136,7 @@ All my leetcode submissions
 | [0012-integer-to-roman](https://github.com/raghuveer88/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghuveer88/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/raghuveer88/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/raghuveer88/LeetCode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
