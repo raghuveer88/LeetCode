@@ -1,9 +1,5 @@
-class Solution(object):
-    def reverseWords(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        senList = s.split()
-        senList.reverse()
-        return " ".join(senList)
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        a = s.split()
+        a.reverse()
+        return " ".join(a)
