@@ -16,6 +16,7 @@ All my leetcode submissions
 | [0036-valid-sudoku](https://github.com/raghuveer88/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raghuveer88/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/raghuveer88/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -199,6 +200,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raghuveer88/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/raghuveer88/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghuveer88/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -340,4 +342,8 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghuveer88/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
