@@ -14,7 +14,7 @@ class Solution:
         for i in range(len(s)):
             seen[s[i]] += 1
                 
-            if s[i] in t and seen[s[i]] == have[s[i]]:
+            if s[i] in have and seen[s[i]] == have[s[i]]:
                 seen_count +=1
 
             while seen_count == have_count:
@@ -23,7 +23,7 @@ class Solution:
                     res = (j,i)
                     reslen = i-j+1
                 seen[s[j]] -=1
-                if s[j] in t and seen[s[j]] < have[s[j]]:
+                if s[j] in have and seen[s[j]] < have[s[j]]:
                     seen_count -= 1
 
                 j += 1
