@@ -113,6 +113,7 @@ All my leetcode submissions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raghuveer88/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -173,6 +174,7 @@ All my leetcode submissions
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/raghuveer88/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghuveer88/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/raghuveer88/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghuveer88/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raghuveer88/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/raghuveer88/LeetCode/tree/master/0049-group-anagrams) |
