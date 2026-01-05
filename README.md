@@ -117,6 +117,7 @@ All my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/raghuveer88/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -329,6 +330,7 @@ All my leetcode submissions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/raghuveer88/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raghuveer88/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/raghuveer88/LeetCode/tree/master/0901-online-stock-span) |
