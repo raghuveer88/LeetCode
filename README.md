@@ -140,6 +140,7 @@ All my leetcode submissions
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/raghuveer88/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/raghuveer88/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/raghuveer88/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/raghuveer88/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/raghuveer88/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -238,6 +239,7 @@ All my leetcode submissions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghuveer88/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/raghuveer88/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/raghuveer88/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/raghuveer88/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raghuveer88/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
