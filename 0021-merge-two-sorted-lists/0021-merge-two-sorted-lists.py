@@ -18,26 +18,22 @@ class Solution:
         head = ListNode()
         tail = head
 
-        while list1 and list2:
+        while list1 or list2:
             tail.next = ListNode()
             tail = tail.next
-            if list1.val <= list2.val:
+            if list1 and list2:
+                if list1.val <= list2.val:
+                    tail.val = list1.val
+                    list1 = list1.next
+                else:
+                    tail.val = list2.val
+                    list2 = list2.next
+            elif list1:
                 tail.val = list1.val
                 list1 = list1.next
-            else:
+            elif list2:
                 tail.val = list2.val
                 list2 = list2.next
-        
-        while list1:
-            tail.next = ListNode()
-            tail = tail.next
-            tail.val = list1.val
-            list1 = list1.next
-        while list2:
-            tail.next = ListNode()
-            tail = tail.next
-            tail.val = list2.val
-            list2 = list2.next
 
         return head.next
 
