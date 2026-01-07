@@ -22,7 +22,7 @@ class Solution:
                 list2.next = curr
                 list2 = list2.next
             curr = curr.next
-        # list1.next = None
+        list1.next = None
         list2.next = None
 
         
