@@ -144,6 +144,7 @@ All my leetcode submissions
 | [0076-minimum-window-substring](https://github.com/raghuveer88/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/raghuveer88/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghuveer88/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/raghuveer88/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/raghuveer88/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/raghuveer88/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -247,6 +248,7 @@ All my leetcode submissions
 | [0086-partition-list](https://github.com/raghuveer88/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/raghuveer88/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghuveer88/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/raghuveer88/LeetCode/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raghuveer88/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -339,6 +341,7 @@ All my leetcode submissions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/raghuveer88/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/raghuveer88/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/raghuveer88/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raghuveer88/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -388,4 +391,8 @@ All my leetcode submissions
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/raghuveer88/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
