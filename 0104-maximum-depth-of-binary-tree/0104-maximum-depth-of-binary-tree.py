@@ -14,7 +14,6 @@ class Solution:
             
             a = rec(node.left,d+1)
             b = rec(node.right,d+1)
-            print(a)
             return max(a,b)  
             
         return rec(root,1)
