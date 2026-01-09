@@ -214,6 +214,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghuveer88/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raghuveer88/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
@@ -264,6 +265,7 @@ All my leetcode submissions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raghuveer88/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raghuveer88/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -272,6 +274,7 @@ All my leetcode submissions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raghuveer88/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raghuveer88/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -294,6 +297,7 @@ All my leetcode submissions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raghuveer88/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raghuveer88/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
