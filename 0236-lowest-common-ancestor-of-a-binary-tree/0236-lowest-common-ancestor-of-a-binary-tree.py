@@ -10,7 +10,7 @@ class Solution:
         
         def rec(node):
             if not node:
-                return None
+                return 
             
             if node == p or node == q:
                 return node
