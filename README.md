@@ -227,6 +227,7 @@ All my leetcode submissions
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/raghuveer88/LeetCode/tree/master/0994-rotting-oranges) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -288,6 +289,7 @@ All my leetcode submissions
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,6 +307,7 @@ All my leetcode submissions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Search Tree
 |  |
@@ -337,6 +340,7 @@ All my leetcode submissions
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
