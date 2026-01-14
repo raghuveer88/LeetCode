@@ -20,14 +20,11 @@ class Solution:
             for i in range(len(level)):
                 if level[i].left: next_level.append(level[i].left)
                 if level[i].right: next_level.append(level[i].right)
+                res.append(level[i].val)
             if count%2 == 0:
-                for node in reversed(level):
-                    res.append(node.val)
-            else:
-                for node in level:
-                    res.append(node.val)
+                res.reverse()
+                
             output.append(res)
-
             rec(next_level,count+1)
         
         rec([root],1)
