@@ -6,22 +6,8 @@
 #         self.right = right
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-        count = 0
         if not root:
-            return count
-        def rec(level,count):
-            if not level:
-                return count
-            
-            next_level = []
-            for node in level:
-                if node.left:
-                    next_level.append(node.left)
-                if node.right:
-                    next_level.append(node.right)
-                count += 1
-            count = rec(next_level,count)
-
-            return count
+            return 0
         
-        return rec([root],0)
+        
+        return 1+ self.countNodes(root.left)+ self.countNodes(root.right)
