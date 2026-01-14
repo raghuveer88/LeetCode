@@ -207,6 +207,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/raghuveer88/LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/raghuveer88/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghuveer88/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghuveer88/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Backtracking
@@ -283,6 +284,7 @@ All my leetcode submissions
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/raghuveer88/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/raghuveer88/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
@@ -310,6 +312,7 @@ All my leetcode submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/raghuveer88/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveer88/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/raghuveer88/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0875-koko-eating-bananas](https://github.com/raghuveer88/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -328,6 +331,7 @@ All my leetcode submissions
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/raghuveer88/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/raghuveer88/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Sliding Window
