@@ -228,6 +228,7 @@ All my leetcode submissions
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghuveer88/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -293,6 +294,7 @@ All my leetcode submissions
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -310,6 +312,7 @@ All my leetcode submissions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/raghuveer88/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/raghuveer88/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -323,6 +326,7 @@ All my leetcode submissions
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveer88/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/raghuveer88/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0875-koko-eating-bananas](https://github.com/raghuveer88/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -346,6 +350,7 @@ All my leetcode submissions
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
 |  |
