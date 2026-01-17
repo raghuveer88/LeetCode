@@ -37,6 +37,7 @@ All my leetcode submissions
 | [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/raghuveer88/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/raghuveer88/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -226,6 +227,7 @@ All my leetcode submissions
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghuveer88/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -248,6 +250,7 @@ All my leetcode submissions
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/raghuveer88/LeetCode/tree/master/0994-rotting-oranges) |
@@ -310,6 +313,7 @@ All my leetcode submissions
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghuveer88/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -472,4 +476,8 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/raghuveer88/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
