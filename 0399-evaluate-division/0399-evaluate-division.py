@@ -1,32 +1,34 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         graph = defaultdict(list)
+        visited = set()
+        output = []
 
-        for (a,b), val in zip(equations,values):
-            graph[a].append((b,val))
-            graph[b].append((a,1/val))
+        for i in range(len(equations)):
+            a = equations[i][0]
+            b = equations[i][1]
+            w = values[i]
+            graph[a].append((b,w))
+            graph[b].append((a,1/w))
 
-        def dsf(curr, target, visited):
-            if curr == target:
-                return 1
-
-            visited.add(curr)
-            for nei,w in graph[curr]:
-                if nei in visited:
+        def rec(val1,val2,cost,visited):
+            if val1 not in graph or val2 not in graph:
+                return -1
+            
+            if val1 == val2:
+                return cost
+            visited.add(val1)
+            for nei in graph[val1]:
+                if nei[0] in visited:
                     continue
-                res = dsf(nei,target,visited)
+                res = rec(nei[0],val2,cost * nei[1],visited)
                 if res != -1:
-                    return w*res
-                
+                    return res
+            
             return -1
-
-        ans = []
-        for src, target in queries:
-            if src not in graph or target not in graph:
-                ans.append(-1)
-            elif src == target:
-                ans.append(1)
-            else:
-                ans.append(dsf(src,target,set()))
-    
-        return ans
+            
+        for nei in queries:
+            output.append(rec(nei[0],nei[1],1,set()))
+                
+        return output
+            
