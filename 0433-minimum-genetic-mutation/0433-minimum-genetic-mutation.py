@@ -1,6 +1,6 @@
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
-        
+        bank = set(bank)
         q = deque()
         q.append((startGene,0))
         visited = set()
