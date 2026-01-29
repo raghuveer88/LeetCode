@@ -16,6 +16,6 @@ class Solution:
                         term = gene[:i] + chars[j] + gene[i + 1:]
                         if term in bank and term not in visited:
                             q.append((term,move+1))
-                        visited.add(term)
+                            visited.add(term)
         return -1
 
