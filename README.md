@@ -16,6 +16,7 @@ All my leetcode submissions
 | [0036-valid-sudoku](https://github.com/raghuveer88/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raghuveer88/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/raghuveer88/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/raghuveer88/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
@@ -222,6 +223,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghuveer88/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/raghuveer88/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/raghuveer88/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
