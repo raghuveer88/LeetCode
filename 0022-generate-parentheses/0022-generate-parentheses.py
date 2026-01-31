@@ -5,20 +5,20 @@ class Solution:
 
         def rec(open,closed,path):
             if len(path) == 2*n:
-                res.append(path)
+                res.append("".join(path[:]))
                 return
             
             if open < n:
-                # path += "("
-                rec(open+1,closed,path+"(")
-                
+                path.append("(")
+                rec(open+1,closed,path)
+                path.pop()
             
             if closed < open:
-                # path += ")"
-                rec(open,closed+1,path+")")
-                
+                path.append(")")
+                rec(open,closed+1,path)
+                path.pop()
         
-        rec(0,0,"")
+        rec(0,0,[])
         return res
 
                 
