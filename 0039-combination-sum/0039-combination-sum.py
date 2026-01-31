@@ -12,7 +12,7 @@ class Solution:
             
             for i in range(ind,len(candidates)):
                 if sum(path) > target:
-                    continue
+                    return
 
                 path.append(candidates[i])
                 rec(path,i)
