@@ -24,6 +24,7 @@ All my leetcode submissions
 | [0055-jump-game](https://github.com/raghuveer88/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -201,6 +202,7 @@ All my leetcode submissions
 | [0058-length-of-last-word](https://github.com/raghuveer88/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/raghuveer88/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/raghuveer88/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/raghuveer88/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/raghuveer88/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/raghuveer88/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -231,6 +233,7 @@ All my leetcode submissions
 | [0046-permutations](https://github.com/raghuveer88/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/raghuveer88/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/raghuveer88/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
@@ -272,6 +275,7 @@ All my leetcode submissions
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/raghuveer88/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
@@ -327,6 +331,7 @@ All my leetcode submissions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/raghuveer88/LeetCode/tree/master/0100-same-tree) |
