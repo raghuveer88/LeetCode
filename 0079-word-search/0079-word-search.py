@@ -16,7 +16,7 @@ class Solution:
 
                     if board[nr][nc] == word[input+1]:
                         if rec(nr,nc,input+1):
-                            # visited.remove((r, c))
+                            visited.remove((r, c))
                             return True
             
             visited.remove((r,c))
