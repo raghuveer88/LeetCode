@@ -25,7 +25,7 @@ class Solution:
         def solve(r,c,size):
             check,val = validate(r,c,size)
             if check:
-                return Node(val,True,None,None,None,None)
+                return Node(bool(val),True,None,None,None,None)
             
             half = size//2
             tl = solve(r,c,half)
