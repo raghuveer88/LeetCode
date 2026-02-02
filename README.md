@@ -28,6 +28,7 @@ All my leetcode submissions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghuveer88/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghuveer88/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/raghuveer88/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -318,6 +319,7 @@ All my leetcode submissions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/raghuveer88/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghuveer88/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -363,6 +365,7 @@ All my leetcode submissions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/raghuveer88/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghuveer88/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/raghuveer88/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -384,6 +387,7 @@ All my leetcode submissions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/raghuveer88/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghuveer88/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -423,6 +427,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
