@@ -20,6 +20,7 @@ All my leetcode submissions
 | [0046-permutations](https://github.com/raghuveer88/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/raghuveer88/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/raghuveer88/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/raghuveer88/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0056-merge-intervals) |
@@ -110,6 +111,7 @@ All my leetcode submissions
 | [0022-generate-parentheses](https://github.com/raghuveer88/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raghuveer88/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raghuveer88/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/raghuveer88/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raghuveer88/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/raghuveer88/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/raghuveer88/LeetCode/tree/master/0072-edit-distance) |
@@ -430,6 +432,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghuveer88/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/raghuveer88/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/raghuveer88/LeetCode/tree/master/0148-sort-list) |
