@@ -51,6 +51,7 @@ All my leetcode submissions
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raghuveer88/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
@@ -279,6 +280,7 @@ All my leetcode submissions
 | [0130-surrounded-regions](https://github.com/raghuveer88/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0909-snakes-and-ladders](https://github.com/raghuveer88/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/raghuveer88/LeetCode/tree/master/0994-rotting-oranges) |
@@ -326,6 +328,7 @@ All my leetcode submissions
 | [0226-invert-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghuveer88/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghuveer88/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -422,6 +425,7 @@ All my leetcode submissions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/raghuveer88/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Sorting
 |  |
 | ------- |
