@@ -1,41 +1,29 @@
 class Solution:
-    # this is a staight forward answer just peroform binary search you'll reach the answer
-
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        return [self.first(nums, target),self.second(nums, target)]
-    def first(self, nums, target):
-        low = 0
-        high = len(nums)-1
-        first = -1
+        
 
-        while low <= high:
-            mid = (low + high) // 2
-            if nums[mid] == target:
-                first = mid
-                high = mid - 1
+
+        def bst(l,r):
+            if l > r:
+                return [-1,-1]
+
+            if nums[l]== nums[r] == target:
+                return [l,r]
             
-            elif nums[mid] < target:
-                low = mid + 1
-            else:
-                high = mid - 1
+            mid = (l+r)//2
 
-        return first
-
-    def second(self, nums, target):
-        low = 0
-        high = len(nums)-1
-        last = -1
-
-        while low <= high:
-            mid = (low + high) // 2
-            if nums[mid] == target:
-                last = mid
-                low = mid + 1
+            if nums[mid] > target:
+                return bst(l,mid-1)
+            if nums[mid] < target:
+                return bst(mid+1,r)
             
-            elif nums[mid] < target:
-                low = mid + 1
-            else:
-                
-                high = mid -1
-
-        return last
+            if nums[mid] == target:
+                if nums[mid] != nums[r] and nums[mid] != nums[l]:
+                    return bst(l-1,r-1)
+                if nums[mid] != nums[r]:
+                    return bst(l,r-1)
+                if nums[mid] != nums[l]:
+                    return bst(l+1,r)
+        
+        return bst(0,len(nums)-1)
+            
