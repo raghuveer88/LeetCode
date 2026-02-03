@@ -26,6 +26,7 @@ All my leetcode submissions
 | [0055-jump-game](https://github.com/raghuveer88/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raghuveer88/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -283,6 +284,7 @@ All my leetcode submissions
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/raghuveer88/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
@@ -373,6 +375,7 @@ All my leetcode submissions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghuveer88/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghuveer88/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghuveer88/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/raghuveer88/LeetCode/tree/master/0162-find-peak-element) |
