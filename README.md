@@ -192,6 +192,7 @@ All my leetcode submissions
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raghuveer88/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/raghuveer88/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/raghuveer88/LeetCode/tree/master/0202-happy-number) |
@@ -216,6 +217,7 @@ All my leetcode submissions
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raghuveer88/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/raghuveer88/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raghuveer88/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/raghuveer88/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/raghuveer88/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/raghuveer88/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
@@ -236,6 +238,7 @@ All my leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raghuveer88/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/raghuveer88/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/raghuveer88/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghuveer88/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -547,6 +550,7 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/raghuveer88/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
 ## Doubly-Linked List
 |  |
