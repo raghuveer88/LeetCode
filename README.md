@@ -61,6 +61,7 @@ All my leetcode submissions
 | [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/raghuveer88/LeetCode/tree/master/0502-ipo) |
 | [0739-daily-temperatures](https://github.com/raghuveer88/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/raghuveer88/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -86,6 +87,7 @@ All my leetcode submissions
 | [0135-candy](https://github.com/raghuveer88/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/raghuveer88/LeetCode/tree/master/0502-ipo) |
 ## Two Pointers
 |  |
 | ------- |
@@ -468,6 +470,7 @@ All my leetcode submissions
 | [0274-h-index](https://github.com/raghuveer88/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghuveer88/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/raghuveer88/LeetCode/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raghuveer88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
@@ -475,6 +478,7 @@ All my leetcode submissions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghuveer88/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/raghuveer88/LeetCode/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
