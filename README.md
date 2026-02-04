@@ -56,6 +56,7 @@ All my leetcode submissions
 | [0238-product-of-array-except-self](https://github.com/raghuveer88/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/raghuveer88/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/raghuveer88/LeetCode/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/raghuveer88/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raghuveer88/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/raghuveer88/LeetCode/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/raghuveer88/LeetCode/tree/master/0427-construct-quad-tree) |
@@ -478,6 +479,7 @@ All my leetcode submissions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghuveer88/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghuveer88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/raghuveer88/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/raghuveer88/LeetCode/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/raghuveer88/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raghuveer88/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
