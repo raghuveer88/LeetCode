@@ -1,18 +1,25 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         
-        total = digits[0]
-        for i in range(1,len(digits)):
-            total = total*10+digits[i]
-        
-        total += 1
         res = []
-        while total>0:
-            res.append(total%10)
-            total = total//10
+        i = len(digits)-1
+        if digits[i] != 9:
+            digits[i] = digits[i]+1
+            return digits
         
-        res.reverse()
-
+        else:
+            while i>=0 and digits[i] == 9:
+                carry = 1
+                digits[i] = 0
+                i = i-1
+            if i >=0 and carry:
+                digits[i] += carry
+                res = digits
+            else:
+                res.append(carry)
+                res.extend(digits)
         return res
+
+                
 
 
