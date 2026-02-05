@@ -194,6 +194,7 @@ All my leetcode submissions
 | [0012-integer-to-roman](https://github.com/raghuveer88/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/raghuveer88/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/raghuveer88/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/raghuveer88/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/raghuveer88/LeetCode/tree/master/0067-add-binary) |
@@ -338,6 +339,7 @@ All my leetcode submissions
 | [0002-add-two-numbers](https://github.com/raghuveer88/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raghuveer88/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/raghuveer88/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/raghuveer88/LeetCode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
