@@ -27,6 +27,7 @@ All my leetcode submissions
 | [0054-spiral-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/raghuveer88/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/raghuveer88/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/raghuveer88/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raghuveer88/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
@@ -194,6 +195,7 @@ All my leetcode submissions
 | [0013-roman-to-integer](https://github.com/raghuveer88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/raghuveer88/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raghuveer88/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/raghuveer88/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/raghuveer88/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghuveer88/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/raghuveer88/LeetCode/tree/master/0189-rotate-array) |
