@@ -8,7 +8,8 @@ class Solution:
         res = 0
         while i < 32:
             if left[i] == right[i]:
-                res += int(left[i]) * 2**(31-i)
+                if left[i] == "1":
+                    res += 2**(31-i)
                 i = i+1
                 
             else:
