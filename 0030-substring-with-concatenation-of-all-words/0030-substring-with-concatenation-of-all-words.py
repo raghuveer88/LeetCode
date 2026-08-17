@@ -1,42 +1,60 @@
+from collections import Counter, defaultdict
+from typing import List
+
 class Solution:
-    def findSubstring(self, s: str, words: List[str]) -> List[int]:
-        
+
+
+    def findSubstring(self,s: str, words: List[str]) -> List[int]:
         if not s or not words:
             return []
 
         word_len = len(words[0])
-        m = len(words)
-        need = Counter(words)
-        res = []
-        n = len(s)
+        num_words = len(words)
+        total_len = word_len * num_words
+        s_len = len(s)
 
+        # Frequency of required words
+        target = Counter(words)
+        result = []
+
+        # Try each possible alignment
         for offset in range(word_len):
             left = offset
-            seen = Counter()
-            count = 0
+            right = offset
+            window_count = defaultdict(int)
+            matched_words = 0
 
-            for right in range(offset, n - word_len + 1, word_len):
-                w = s[right:right + word_len]
+            # Move right pointer in word-sized steps
+            while right + word_len <= s_len:
+                word = s[right:right + word_len]
+                right += word_len
 
-                if w in need:
-                    seen[w] += 1
-                    count += 1
+                # If word is not needed, reset the window
+                if word not in target:
+                    window_count.clear()
+                    matched_words = 0
+                    left = right
+                    continue
 
-                    while seen[w] > need[w]:
-                        lw = s[left:left + word_len]
-                        seen[lw] -= 1
-                        left += word_len
-                        count -= 1
+                # Add current word to the window
+                window_count[word] += 1
+                matched_words += 1
 
-                    if count == m:
-                        res.append(left)
-                        lw = s[left:left + word_len]
-                        seen[lw] -= 1
-                        left += word_len
-                        count -= 1
-                else:
-                    seen.clear()
-                    count = 0
-                    left = right + word_len
+                # If a word is overused, shrink from the left
+                while window_count[word] > target[word]:
+                    left_word = s[left:left + word_len]
+                    window_count[left_word] -= 1
+                    matched_words -= 1
+                    left += word_len
 
-        return res
+                # If window has exactly all words, record start
+                if matched_words == num_words:
+                    result.append(left)
+
+                    # Slide one word forward to look for next match
+                    left_word = s[left:left + word_len]
+                    window_count[left_word] -= 1
+                    matched_words -= 1
+                    left += word_len
+
+        return result
