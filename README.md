@@ -175,6 +175,7 @@ All my leetcode submissions
 | [0073-set-matrix-zeroes](https://github.com/raghuveer88/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/raghuveer88/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghuveer88/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/raghuveer88/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/raghuveer88/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/raghuveer88/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghuveer88/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -236,6 +237,7 @@ All my leetcode submissions
 | [0076-minimum-window-substring](https://github.com/raghuveer88/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/raghuveer88/LeetCode/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/raghuveer88/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/raghuveer88/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/raghuveer88/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raghuveer88/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -271,6 +273,7 @@ All my leetcode submissions
 | [0052-n-queens-ii](https://github.com/raghuveer88/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/raghuveer88/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/raghuveer88/LeetCode/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/raghuveer88/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/raghuveer88/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0787-sliding-puzzle](https://github.com/raghuveer88/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Breadth-First Search
@@ -283,6 +286,7 @@ All my leetcode submissions
 | [0104-maximum-depth-of-binary-tree](https://github.com/raghuveer88/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raghuveer88/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghuveer88/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/raghuveer88/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/raghuveer88/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/raghuveer88/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raghuveer88/LeetCode/tree/master/0200-number-of-islands) |
@@ -618,4 +622,8 @@ All my leetcode submissions
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/raghuveer88/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/raghuveer88/LeetCode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
