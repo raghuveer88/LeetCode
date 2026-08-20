@@ -1,20 +1,19 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        output = []
+        group = defaultdict(list)
 
-        unique_sets = defaultdict(list)
+        for s in strs:
+            count = [0]*26
 
-        i = 0
-        for word in strs:
-            temp = str(sorted(word))
-            
-            unique_sets[temp].append(word)
-
-        for temp in unique_sets:
-            output.append(unique_sets[temp])
+            for ch in s:
+                count[ord(ch)-ord('a')] += 1
 
             
-            
-            
-        
-        return output
+            key = tuple(count)
+
+            group[key].append(s)
+
+        return list(group.values())
+
+    
+       
